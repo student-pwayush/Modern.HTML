@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML5 Features Showcase</title>
+    <style>
+        /* Add your CSS styles here for styling the page */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>HTML5 Features Showcase</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#feature1">Feature 1: Semantic Elements</a></li>
+            <li><a href="#feature2">Feature 2: Video and Audio</a></li>
+            <li><a href="#feature3">Feature 3: Canvas</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="feature1">
+            <h2>Feature 1: Semantic Elements</h2>
+            <p>HTML5 introduced a set of semantic elements that provide meaning to the structure of web documents. These elements include &lt;header&gt;, &lt;nav&gt;, &lt;main&gt;, &lt;section&gt;, &lt;article&gt;, &lt;footer&gt;, and more. They make it easier for search engines and assistive technologies to understand the content and improve overall accessibility.</p>
+        </section>
+
+        <section id="feature2">
+            <h2>Feature 2: Video and Audio</h2>
+            <p>HTML5 introduced native support for embedding video and audio content using the &lt;video&gt; and &lt;audio&gt; elements. This eliminates the need for third-party plugins like Adobe Flash, making multimedia content more accessible and standards-compliant.</p>
+        </section>
+
+        <section id="feature3">
+            <h2>Feature 3: Canvas</h2>
+            <p>The &lt;canvas&gt; element allows for dynamic, scriptable rendering of 2D graphics. It's widely used for creating animations, interactive games, data visualizations, and more. JavaScript can be used to draw and manipulate graphics within the canvas element, providing rich user experiences.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Your Website Name</p>
+    </footer>
+</body>
+</html>

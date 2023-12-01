@@ -1,0 +1,33 @@
+List out the features of HTML5
+
+Semantic Elements: HTML5 introduced several new semantic elements like <header>, <nav>, <article>, <section>, <footer>, and <aside>. These elements provide a clearer structure to web documents, making it easier for both developers and assistive technologies to understand the content's meaning.
+
+Audio and Video: HTML5 includes native support for embedding audio and video elements directly into web pages, using the <audio> and <video> tags. This eliminates the need for third-party plugins like Flash.
+
+Canvas: The <canvas> element allows for dynamic, scriptable rendering of 2D shapes and images. Developers can use JavaScript to draw graphics, create animations, and build interactive games and visualizations.
+
+SVG Support: HTML5 includes native support for Scalable Vector Graphics (SVG), allowing developers to create vector graphics and animations directly in HTML documents.
+
+Web Storage: HTML5 introduced the localStorage and sessionStorage APIs, which allow developers to store data locally on the user's device. This is useful for building offline web applications and improving performance.
+
+Web Workers: Web Workers enable multi-threading in web applications, allowing long-running scripts to run in the background without affecting the user interface's responsiveness.
+
+Geolocation: HTML5 provides a Geolocation API that allows websites to request the user's location information (with their consent). This feature is handy for location-based services and maps.
+
+Drag and Drop: HTML5 introduces native support for drag-and-drop operations, making it easier to create intuitive user interfaces with elements that can be dragged and dropped within a web page.
+
+Form Enhancements: HTML5 introduces new form input types like <input type="date">, <input type="email">, <input type="url">, and more. It also includes form validation attributes like required, min, max, and pattern.
+
+WebSocket: WebSocket is a protocol introduced in HTML5 that enables bidirectional communication between the server and the client, providing real-time capabilities for web applications.
+
+Responsive Images: HTML5 includes the <picture> element and the srcset attribute, which allow developers to provide multiple image sources and sizes based on the user's device and screen resolution.
+
+Local File Access: HTML5 allows web applications to request limited access to the user's local file system, making it possible to read and write files with user permission.
+
+Offline Application Cache: HTML5 introduces the Application Cache API, which allows web developers to create offline-capable web applications by specifying which resources should be cached for offline use.
+
+Improved Accessibility: HTML5 includes features like the aria-* attributes and improved support for semantic markup, making it easier to create accessible web content for users with disabilities.
+
+Cross-document Messaging: With the window.postMessage() method, HTML5 provides a secure way for documents from different domains to communicate with each other.
+
+ContentEditable: The contenteditable attribute allows elements to become editable by the user, making it easier to create rich-text editors and interactive content.
